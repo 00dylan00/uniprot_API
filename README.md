@@ -1,8 +1,8 @@
 # webinar Programmatic access to UniProt using Python
 
-All code here is based on EMBL-EBI webinar of Programmatic access to UniProt using Python recorded on 17/11/2021 given by Aurélien Luciani.
+All code here is based on EMBL-EBI webinar of [Programmatic access to UniProt using Python](https://www.youtube.com/watch?v=-uoKtReLGVs) recorded on 17/11/2021 given by Aurélien Luciani.
 
-Link to GoogleCollab
+Link to [GoogleCollab](https://colab.research.google.com/drive/1SU3j4VmXHYrYxOlrdK_NCBhajXb0iGes#scrollTo=zvDpOjPwgQoP)
 
 Description of webinar: 
 
